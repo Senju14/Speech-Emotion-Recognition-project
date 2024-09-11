@@ -56,7 +56,7 @@ speech-emotion-recognition/
 
 ## Kết quả
 
-Mô hình đạt được độ chính xác XX% trên tập kiểm tra. Chi tiết về hiệu suất của mô hình có thể được tìm thấy trong notebook.
+Mô hình đạt được độ chính xác 36% trên tập kiểm tra. Chi tiết về hiệu suất của mô hình có thể được tìm thấy trong notebook.
 
 ## Đóng góp
 
